@@ -5,7 +5,7 @@
 3.[技术栈梳理](#技术栈梳理)：前端，后端，开发工具，构建工具，安全，编码规范，框架，编程思想，性能，数据库，缓存，操作系统，云技术，大数据，人工智能等方面梳理。
 
 ## 架构演进
-[架构图](https://github.com/zhangyangbing/summary/images/Test.png)
+[架构图](https://github.com/zhangyangbing/summary/blob/master/images/Test.png)
 ## 框架演进
 
 ## 技术栈梳理
