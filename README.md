@@ -6,7 +6,8 @@
 
 ## 架构演进
 
+![分布式](.README_images/分布式.png)
 ## 框架演进
 
 ## 技术栈梳理
-![技术栈](.README_images/技术栈.png)
+![负载均衡](.README_images/负载均衡.png)
