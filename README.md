@@ -12,12 +12,12 @@
 ## 技术栈梳理
 ![负载均衡](.README_images/负载均衡.png)
 
-```markdown
+
 name | 111 | 222 | 333 | 444
 - | :-: | :-: | :-: | -:
 aaa | bbb | ccc | ddd | eee| 
 fff | ggg| hhh | iii | 000|
-```
+
 ```java
 public static void main(String[] args) {
     System.out.println("HELLO World");
