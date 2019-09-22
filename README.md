@@ -13,10 +13,10 @@
 ![负载均衡](.README_images/负载均衡.png)
 
 
-name | 111 | 222 | 333 | 444
-- | :-: | :-: | :-: | -:
-aaa | bbb | ccc | ddd | eee| 
-fff | ggg| hhh | iii | 000|
+| name | age | 222 | 333 | 444 |
+| :---: | :---: | :---: | :---: | :---: |
+| aaa | bbb | ccc | ddd | eee | 
+| fff | ggg | hhh | iii | 000 |
 
 ```java
 public static void main(String[] args) {
