@@ -2,16 +2,11 @@
 ![](.README_images/backEndStack.png)
 ## 目录
 * 编程语言
- 	* [Java](#Java)
- 	 	* Web开发
+ 	* [Java](PGLanguages/Java/README.md)
  	* VB
- 	 	* 桌面应用
- 	* GO
- 	 	* 组件开发
+ 	* Go
  	* Python
- 	 	* 人工智能
  	* Lua
- 	 	* nginx等
 * 框架/组件
  	* Struts
  	* Spring
@@ -43,5 +38,3 @@
  	* findbugs
  	* 代码复杂度/冗余度/重复率
  	* UADP/SAP架构评定
- 	
-## Java
